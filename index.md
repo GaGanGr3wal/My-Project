@@ -1,3 +1,6 @@
+# Week9
+This week build video is due and I'm working on it to show it to the class on Monday.
+
 # Week8
 We are done with our Group Placard which is due on Monday. Also I wrote my individual 30 second script. 
 <br> Below is the link to my Individual 30 sec Script and group Placard.
