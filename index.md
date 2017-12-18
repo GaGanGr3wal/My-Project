@@ -1,6 +1,6 @@
 # Week9
 This week build video is due and I'm working on it to show it to the class on Monday.
--  [Build Video](https://github.com/GaGanGr3wal/My-Project/blob/master/Hardware.mp4)
+-  [Build Video](https://github.com/GaGanGr3wal/My-Project/blob/master/Build%20Video.mp4)
 
 # Week8
 We are done with our Group Placard which is due on Monday. Also I wrote my individual 30 second script. 
