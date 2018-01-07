@@ -1,3 +1,6 @@
+# Winter Break
+Trying to attach LCD to my sensor to show the readings of my sensor on it.
+
 # Week9
 This week build video is due and I'm working on it to show it to the class on Monday.
 -  [Build Video](https://github.com/GaGanGr3wal/My-Project/blob/master/Build%20Video.mp4)
