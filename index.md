@@ -1,3 +1,7 @@
+# Week 10
+Here is my Progress Report.
+- [Progress Report](https://github.com/GaGanGr3wal/My-Project/blob/master/Progress%20Report.docx)
+
 # Winter Break
 Trying to attach LCD to my sensor to show the readings of my sensor on it.
 
