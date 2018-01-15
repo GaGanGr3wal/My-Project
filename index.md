@@ -1,3 +1,7 @@
+# Week 11
+Here is my Individual Powerpoint Presentation:
+- [Powerpoint Presentation](https://github.com/GaGanGr3wal/My-Project/blob/master/Temp%20Sensor%20Hardware.pptx)
+
 # Week 10
 Here is my Progress Report.
 - [Progress Report](https://github.com/GaGanGr3wal/My-Project/blob/master/Progress-Report.docx)
