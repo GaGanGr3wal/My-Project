@@ -21,3 +21,5 @@ The project began with ordering the parts/components which are required for the 
 ## Mechanical Assembly 
 The assembly of my project is very simple. Firstly, put SD card into the pi and set it up. Attach temperature sensor to raspberry pi with the help of breadboard, 4.7k ohm resistor and jumper wires as shown in the picture below.
 
+![alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/DS18B20-rpi-setup-3.JPG)
+
