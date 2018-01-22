@@ -35,5 +35,5 @@ The assembly of my project is very simple. Firstly, put SD card into the pi and 
 
 
 ## Production Testing 
-The production testing 
+The production testing is very easy. First, run the temperature sensor program temp.py and heat the sesnor with the help of your hands and by blowing air from your mouth on the sensor. In addition, heat the temperature sensor with the help of a lighter so that you can see the changing temperature readings quickly on the screen.
 
