@@ -15,5 +15,6 @@ If you want to show the readings of temperature on LCD display your budget will 
 
 ![alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/budget111.PNG)
 
-
+## Time Commitment
+The project began with ordering the parts/components which are required for the project. All the components used in this project are available on Amazon. Once ordered, it took about a week and a half to arrived. After the parts arrived, I started to setup my raspberry pi and its components. It tooks about 1 hour to setup. Then I started implementing the code by which my temperature sensor will sense the temperature and displays the readings of the tmeperature on the computer screen. It tooks about 1 hour because I had to change lot of things in the code. And to complete the whole project it tooks about 3 hours to complete it. At last, I designed a 3d printed case for my project and it took about 1 day to get printed.
 
