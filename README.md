@@ -21,10 +21,13 @@ The project began with ordering the parts/components which are required for the 
 ## Mechanical Assembly 
 The assembly of my project is very simple. Firstly, put SD card into the pi and set it up. Attach temperature sensor to raspberry pi with the help of breadboard, 4.7k ohm resistor and jumper wires as shown in the picture and follow the steps given below.
 
-#1 -  Connect GPIO GND [Pin 6] on the Pi to the negative rail on the breadboard and connect GPIO 3.3V [Pin 1] on the Pi to the Positive rail on the breadboard.<br>
-#2 -  Plug the DS18B20+ into your breadboard, ensuring that all three pins are in different rows. Familiarise yourself with the pin layout, as it’s quite easy to hook it up backwards!
-#3 -
-
+#1 - Connect GPIO GND [Pin 6] on the Pi to the negative rail on the breadboard and connect GPIO 3.3V [Pin 1] on the Pi to the Positive rail on the breadboard.<br>
+#2 - Plug the DS18B20+ into your breadboard, ensuring that all three pins are in different rows. Familiarise yourself with the pin layout, as it’s quite easy to hook it up backwards!<br>
+#3 -  Connect DS18B20+ GND [Pin 1] to the negative rail of the breadboard.<br>
+#4 -  Connect DS18B20+ VDD [Pin 3] to the positive rail of the breadboard.<br>
+#5 -  Place your 4.7kΩ resistor between DS18B20+ DQ [Pin 2] and a free row on your breadboard.<br>
+#6 - Connect that free end of the 4.7kΩ resistor to the positive rail of the breadboard.<br>
+#7 -   Finally, connect DS18B20+ DQ [Pin 2] to GPIO 4 [Pin 7] with a jumper wire.<br>
 
 ![alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/DS18B20-rpi-setup-3.JPG)
 
