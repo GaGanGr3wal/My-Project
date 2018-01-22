@@ -12,4 +12,5 @@ The main components which are required for my project are a raspberry pi, a temp
 ![alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/budget11.PNG)
 
 If you want to show the readings of temperature on LCD display your budget will increase a bit. 
+![alt text]
 
