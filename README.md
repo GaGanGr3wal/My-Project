@@ -10,3 +10,6 @@ My temperature sensor will sense the temperature and with the help of raspberry 
 The main components which are required for my project are a raspberry pi, a temperature sensor(DS18B20), jumper wires(male to female). In addition, if you want to show the temperature readings on an LCD you will have to add potentiometers and an LCD display in your budget. These all components are available on Amazon, so you can easily get them. Some other components you will need to make this project are breadboard and a resistor. You can get these components from your parts kit.
 
 ![alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/budget1.PNG)
+
+If you want to show the readings of temperature on LCD display your budget will increase a bit. 
+
